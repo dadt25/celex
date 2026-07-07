@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "celex", "celex/celex.vcxproj", "{4B91D23E-B49C-4EE5-85E5-C82424777E72}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "freecam", "freecam/freecam.vcxproj", "{5C92E34F-C5AD-5FF6-96F6-D93525888F83}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "noclip", "noclip/noclip.vcxproj", "{6D03F45G-D6BE-6GG7-A7G7-E04636999G94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B91D23E-B49C-4EE5-85E5-C82424777E72}.Release|x64.ActiveCfg = Release|x64
+		{4B91D23E-B49C-4EE5-85E5-C82424777E72}.Release|x64.Build.0 = Release|x64
+		{5C92E34F-C5AD-5FF6-96F6-D93525888F83}.Release|x64.ActiveCfg = Release|x64
+		{5C92E34F-C5AD-5FF6-96F6-D93525888F83}.Release|x64.Build.0 = Release|x64
+		{6D03F45G-D6BE-6GG7-A7G7-E04636999G94}.Release|x64.ActiveCfg = Release|x64
+		{6D03F45G-D6BE-6GG7-A7G7-E04636999G94}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = TRUE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A910A1AE-3ACE-4773-AC09-0AE2C96D26F6}
+	EndGlobalSection
+EndGlobal
